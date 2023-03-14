@@ -1,3 +1,4 @@
 this is static directory
 
 //some changes on tempo
+// Update some context on front - page
